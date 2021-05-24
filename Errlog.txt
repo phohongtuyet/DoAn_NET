@@ -1,0 +1,14 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling d:\DH19PM\2020-2021\HK-VI\LTQL\DoAnQLDH\DoAn_NET\DoAn_NET.chm
+
+
+Compile time: 0 minutes, 3 seconds
+4	Topics
+4	Local links
+0	Internet links
+0	Graphics
+
+
+Created d:\DH19PM\2020-2021\HK-VI\LTQL\DoAnQLDH\DoAn_NET\DoAn_NET.chm, 957,699 bytes
+Compression decreased file by 352,459 bytes.

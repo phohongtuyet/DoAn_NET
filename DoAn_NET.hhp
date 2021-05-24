@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=DoAn_NET.chm
+Contents file=DoAn_NET.hhc
+Index file=DoAn_NET.hhk
+Enhanced decompilation=Yes
+Binary TOC=Yes
+Full-text search=Yes
+Language=0x0409
+Title=DoAn_NET
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="DoAn_NET","DoAn_NET.hhc","DoAn_NET.hhk","Help.html","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+Help.html
+
